@@ -1,10 +1,10 @@
 # GetLunch
-Query uber eats web pages, and list open restaurants. 
+Query UberEats web pages, and list open restaurants. 
 
 
-##Useage
+## Useage
 ./GetLunch.sh <number>
 
 
-##requirements
+## requirements
 w3m
