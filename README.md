@@ -7,4 +7,5 @@ Query UberEats web pages, and list open restaurants.
 
 
 ## requirements
-w3m
+- w3m: web scraper
+- jq: JSON parser
